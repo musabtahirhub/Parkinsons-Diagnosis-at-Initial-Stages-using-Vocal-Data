@@ -1,0 +1,3 @@
+Model,Inference_Time_Seconds,Memory_MB
+Random_Forest,0.02339935302734375,343.9453125
+Logistic_Regression,0.0003380775451660156,343.9453125
